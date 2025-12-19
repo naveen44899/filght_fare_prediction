@@ -1,22 +1,31 @@
-# filght_fare_prediction
+# ✈️ Flight Fare Prediction Web App
 
+A machine learning–powered web application that predicts flight fares
+based on airline, source, destination, journey date, and total stops.
 
-### Software and Tools Required
+---
 
-# Flight Fare Prediction
+## 🚀 Features
+- User-friendly web interface
+- Real-time fare prediction
+- Trained using XGBoost regression model
+- End-to-end ML deployment with Flask
 
-## Software and Tools Required
+---
 
-1. [GitHub Account](https://github.com)
-2. [VS Code IDE](https://code.visualstudio.com/)
-3. [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
-4. [Streamlit](https://streamlit.io/)
+## 🛠️ Tech Stack
+- Python
+- Flask
+- XGBoost
+- Pandas, NumPy
+- HTML, Bootstrap
 
-## Live Demo
-🚀 https://huggingface.co/spaces/username/flight-fare-prediction
+---
 
-create a new envirnoment
+## ⚙️ How to Run Locally
 
- ========
-conda create -p venv python=3.9 -y
- ========
+1. Clone the repository
+2. Create and activate a virtual environment
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
